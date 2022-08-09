@@ -23,6 +23,7 @@ class CalculatorViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("vika star")
     }
 
     
